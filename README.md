@@ -19,19 +19,23 @@ The project is broken down into multiple steps:
 The Code is written in Python 3. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip.
 
 To install pip run in the command Line
+
 ```python -m ensurepip -- default-pip```
 
 to upgrade it
+
 ```python -m pip install -- upgrade pip setuptools wheel```
 
 to upgrade Python
+
 ```pip install python -- upgrade```
 
 Additional Packages that are required are: [Numpy](http://www.numpy.org/), [Pandas](https://pandas.pydata.org/), [MatplotLib](https://matplotlib.org/), [Pytorch](https://pytorch.org/).
+
 You can donwload them using pip
-```pip install numpy pandas matplotlib```
+  ```pip install numpy pandas matplotlib```
 
 or [conda](https://anaconda.org/anaconda/python)
-```conda install numpy pandas matplotlib pil```
+  ```conda install numpy pandas matplotlib pil```
 
 In order to intall Pytorch head over to the Pytorch site select your specs and follow the instructions given.
