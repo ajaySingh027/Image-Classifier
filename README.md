@@ -13,3 +13,27 @@ The project is broken down into multiple steps:
 - Load and preprocess the image dataset
 - Train the image classifier on your dataset
 - Use the trained classifier to predict image content
+
+
+## Prerequisites
+The Code is written in Python 3. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip.
+
+To install pip run in the command Line
+
+```python -m ensurepip -- default-pip```
+
+to upgrade it
+```python -m pip install -- upgrade pip setuptools wheel```
+
+to upgrade Python
+```pip install python -- upgrade```
+
+Additional Packages that are required are: Numpy, Pandas, MatplotLib, Pytorch, PIL and json.
+You can donwload them using pip
+
+```pip install numpy pandas matplotlib pil```
+
+or conda
+
+```conda install numpy pandas matplotlib pil```
+In order to intall Pytorch head over to the Pytorch site select your specs and follow the instructions given.
