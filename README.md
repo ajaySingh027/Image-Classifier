@@ -33,9 +33,11 @@ to upgrade Python
 Additional Packages that are required are: [Numpy](http://www.numpy.org/), [Pandas](https://pandas.pydata.org/), [MatplotLib](https://matplotlib.org/), [Pytorch](https://pytorch.org/).
 
 You can donwload them using pip
-  ```pip install numpy pandas matplotlib```
+
+ ```pip install numpy pandas matplotlib```
 
 or [conda](https://anaconda.org/anaconda/python)
-  ```conda install numpy pandas matplotlib pil```
+
+ ```conda install numpy pandas matplotlib pil```
 
 In order to intall Pytorch head over to the Pytorch site select your specs and follow the instructions given.
